@@ -1,0 +1,6 @@
+framework module TYSDKCoreKit {
+  umbrella header "TYSDKCoreKit.h"
+  export *
+
+  module * { export * }
+}

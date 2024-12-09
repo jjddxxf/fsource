@@ -1,0 +1,6 @@
+framework module GASDK {
+  umbrella header "GASDK.h"
+  export *
+
+  module * { export * }
+}
